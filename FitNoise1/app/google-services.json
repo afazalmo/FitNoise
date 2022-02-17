@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552881065893",
+    "firebase_url": "https://fitnoise-37996.firebaseio.com",
+    "project_id": "fitnoise-37996",
+    "storage_bucket": "fitnoise-37996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552881065893:android:31c0d21ceac6ebb230224c",
+        "android_client_info": {
+          "package_name": "com.example.fitnoise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552881065893-gc6m410roqpch2pltl7hadr9bchcjidt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuyysxEv9wbVIOR5tNwkqcYHeFcgW3TKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552881065893-gc6m410roqpch2pltl7hadr9bchcjidt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

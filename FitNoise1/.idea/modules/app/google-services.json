@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21576798538",
+    "firebase_url": "https://fitnoise-cfb0a.firebaseio.com",
+    "project_id": "fitnoise-cfb0a",
+    "storage_bucket": "fitnoise-cfb0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21576798538:android:cc53cc0133b2e8ead9b1b3",
+        "android_client_info": {
+          "package_name": "com.example.fitnoise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21576798538-pjd2cr35pi413bhsrcdlgdbbo0jgii3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnoise",
+            "certificate_hash": "887e33897dd6aa79306cdb69ae0b7b50dd510d90"
+          }
+        },
+        {
+          "client_id": "21576798538-tm6uutvf53a7abgl16am78pm8tevrgde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQCmufHdwSwdX10GiRQoZ91CXRiiPOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21576798538-tm6uutvf53a7abgl16am78pm8tevrgde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

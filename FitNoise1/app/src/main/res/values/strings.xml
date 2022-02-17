@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FitNoise</string>
+    <string name="title_activity_terms_conditions">Terms and Conditions</string>
+    <string name="agreement_EULA">
+        FitNoise End User License Agreement (EULA)\n\n
+
+        1.	INTRODUCTION\nThis End-User License Agreement (EULA) is a legal agreement between (a) you, the User of this app and (b) FitNoise, or any of its members.\n\n
+
+        2.	LICENSING OF USE\nYou are granted a revocable, non-exclusive, non-transferrable, limited license to install and use this application.\n\n
+
+        3.	RESTRICTIONS OF USE\nYou shall not reproduce or make copies of the application, or use our application for any profit purposes. Neither shall you attempt to modify our application in any way other than its intended purpose.\n\n
+
+        4.	TERMINATION OF USE\nYour license to use can be revoked, at any time based on our sole discretion with or without notice and will be automatically terminated if any of the terms in this contract has been broken.\n\n
+
+        5.	LIMITATION OF LIABILITY\nWe will not be liable for any of the following for using our app including but not limited to: Loss of Profits, Loss of Data, Loss of Revenue, Loss of Use, or Punitive, Exemplary, Indirect, Special, Incidental, or Consequential damages. Nor are we responsible for any injuries or damages, intentional or unintentional.\n\n
+
+        6.	DISCLAIMERS OF WARRANTIES\nThis application is provided “as is” and disclaims any and all other warranties, whether express, implied, or statutory including without limitation any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, accuracy, timeliness, title, or non-infringement of third-party rights, to the fullest extent authorized by law.\n\n
+
+        7.	COPYRIGHT INFRINGEMENT\nAll logos, artworks, images, and design contained within this application shall not be reproduced or used outside the application without our consent.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="email">Email:</string>
+    <string name="i_agree_to_the_terms_and_conditions_described">I agree to the terms and conditions described</string>
+    <string name="here"><u>here</u></string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_exercise">Exercises</string>
+    <string name="menu_workout">Workouts</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name="logout">Log out</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="menu_gallery">Exercises</string>
+    <string name="menu_slideshow">Workouts</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="your_workout_plan">Your Workout Plan</string>
+    <string name="enter_your_exercise_s">Enter your exercise(s)</string>
+</resources>

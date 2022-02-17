@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.fitnoise.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_exercise"
+        android:name="com.example.fitnoise.ui.exercise.ExerciseFragment"
+        android:label="@string/menu_exercise"
+        tools:layout="@layout/fragment_exercise" />
+
+    <fragment
+        android:id="@+id/nav_workout"
+        android:name="com.example.fitnoise.ui.workout.WorkoutsFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_workouts" />
+
+    <fragment
+        android:id="@+id/nav_events"
+        android:name="com.example.fitnoise.ui.events.WorkoutEventFragment"
+        android:label="Events"
+        tools:layout="@layout/fragment_events" />
+</navigation>
